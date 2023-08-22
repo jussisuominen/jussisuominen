@@ -1,4 +1,4 @@
-Moi! Nimeni on Jussi Suominen ja olen 37-vuotias. Opiskelen tällä hetkellä tieto- ja viestintätekniikkaa ja ohjelmistokehitystä Porin Winnovassa. Opiskelen myös joitain kursseja Udemyssa ja olen keskittynyt pääosin opiskelemaan kurssia Flutter & Dart - The Complete Guide [2023 Edition] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
+Moi! Nimeni on Jussi Suominen ja olen 38-vuotias. Opiskelen tällä hetkellä tieto- ja viestintätekniikkaa ja ohjelmistokehitystä Porin Winnovassa. Opiskelen myös joitain kursseja Udemyssa ja olen keskittynyt pääosin opiskelemaan kurssia Flutter & Dart - The Complete Guide [2023 Edition] (https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/).
 
 Olen tällä hetkellä kiinnostunut sovellusten kehittämisestä Flutterin avulla. Erityisesti olen kiinnostunut kehittämään mobiilisovelluksia Android- ja iOS-laitteille Flutterin avulla.
 
