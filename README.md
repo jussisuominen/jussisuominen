@@ -1,4 +1,4 @@
-Moi! Nimeni on Jussi Suominen ja olen 38-vuotias. Opiskelen tällä hetkellä tieto- ja viestintätekniikkaa ja ohjelmistokehitystä Porin Winnovassa. Opiskelen myös joitain kursseja Udemyssa.
+Moi! Nimeni on Jussi Suominen ja olen 38-vuotias. Opiskelen tällä hetkellä tieto- ja viestintätekniikkaa ja ohjelmistokehitystä Porin Winnovassa. Opiskelen myös ohjelmistokehitykseen liittyviä asioita mm. Udemy-kurssien avulla.
 
 Olen tällä hetkellä kiinnostunut työpöytä-, verkko- ja mobiilisovellusten kehittämisestä ja mm. seuraavista aihealueista: Laravel, React, NextJS, Vue, Angular, PHP, MVC Framework ja Flutter.
 
@@ -6,7 +6,7 @@ Aloin opiskelemaan koodaamista, kun olin n. 12-vuotias. Olen siitä lähtien har
 
 Voit ottaa minuun yhteyttä lähettämällä minulle sähköpostia osoitteeseen jussuom@gmail.com
 
-Hi, my name is Jussi Suominen and I'm 38 years old. I'm currently learning information and communication technology and software development in Winnova Pori. I also study some courses in Udemy.
+Hi, my name is Jussi Suominen and I'm 38 years old. I'm currently learning information and communication technology and software development in Winnova Pori. I also study software development independently with Udemy courses for example.
 
 I’m currently interested in creating apps (desktop, mobile, web) and for example about Laravel, React, NextJS, Vue, Angular, PHP, MVC Framework and Flutter.
 
