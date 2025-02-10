@@ -10,7 +10,7 @@ Hi, my name is Jussi Suominen and I'm 39 years old. I have completed the studies
 
 I’m currently interested in creating apps (desktop, mobile, web) and for example about Laravel, React, NextJS, Vue, Angular, PHP, MVC Framework and Flutter. 
 
-I started to learn coding when I was about 12 years old. Coding has been my hobby since then and I have learned many programming languages and coding concepts throughout the years. Some of the programming languages I have learned are Dart (Flutter), C/C++, Javascript, PHP, Python, C#, Ruby, Java ja Assembly. I have also learned how to create and style websites with HTML, CSS, Bootstrap and W3CSS. In addition I have learned how to create web apps with Javascript, Vue and React. I have learned how to make websites/apps with Django, Flask and ExpressJS.
+I started to learn coding when I was about 12 years old. Coding has been my hobby since then and I have learned many programming languages and coding concepts throughout the years. Some of the programming languages I have learned are Dart (Flutter), C/C++, Javascript, PHP, Python, C#, Ruby, Java and Assembly. I have also learned how to create and style websites with HTML, CSS, Bootstrap and W3CSS. In addition I have learned how to create web apps with Javascript, Vue and React. I have learned how to make websites/apps with Django, Flask and ExpressJS.
 
 You can reach me by sending me email to jussuom@gmail.com
 
